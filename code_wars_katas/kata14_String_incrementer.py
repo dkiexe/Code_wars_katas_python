@@ -16,6 +16,8 @@
 
 # Attention: If the number has leading zeros the amount of digits should be considered.
 
+# kata link : https://www.codewars.com/kata/54a91a4883a7de5d7800009c
+
 # My_solution
 def increment_string(strng):
     then_number = ''
