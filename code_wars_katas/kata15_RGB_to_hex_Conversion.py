@@ -3,6 +3,8 @@
 # Note: Your answer should always be 6 characters long, the shorthand with 3 will not work here.
 # The following are examples of expected output values:
 
+# kata link : https://www.codewars.com/kata/513e08acc600c94f01000001
+
 # My solution
 def rgb(r, g, b):
     final_hex_str = ''
