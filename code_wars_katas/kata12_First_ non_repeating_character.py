@@ -9,6 +9,8 @@
 
 # If a string contains all repeating characters, it should return an empty string ("") or None -- see sample tests.
 
+# kata link : https://www.codewars.com/kata/52bc74d4ac05d0945d00054e
+
 # My solution
 def first_non_repeating_letter(string):
     for char in string:
