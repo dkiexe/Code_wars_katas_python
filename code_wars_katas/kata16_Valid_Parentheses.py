@@ -13,6 +13,8 @@
 # Along with opening (() and closing ()) parenthesis, input may contain any valid ASCII characters. 
 # Furthermore, the input string may be empty and/or not contain any parentheses at all. Do not treat other forms of brackets as parentheses (e.g. [], {}, <>).
 
+# kata link : https://www.codewars.com/kata/52774a314c2333f0a7000688
+
 # My solution:
 def valid_parentheses(string):
     if len(string) == 0:
