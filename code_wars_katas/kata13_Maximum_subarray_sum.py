@@ -8,6 +8,8 @@
 
 # Empty list is considered to have zero greatest sum. Note that the empty list or array is also a valid sublist/subarray.
 
+# kata link : https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c
+
 # My solution
 def max_sequence(arr):
     list_of_subarr = []
