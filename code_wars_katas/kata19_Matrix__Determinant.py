@@ -67,9 +67,9 @@ mat = [
 [7 ,8 ,3 ,8 ,8 ,6 ,7 ,1 ,7 ,9]
 ]
 
-
-
+# MY SOLUTION FOR THE KATA
 print(determinant(mat))
+# REFRENCE WITH NUMPY
 print(numpy.linalg.det(mat))
 stop = time.perf_counter()
 print(f"time took: {round(stop-start, 2)}")
